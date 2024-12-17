@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 72116dfd7b3dd0044b06cf1bffb088d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 322
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a533c861b071e4744b1c43cc9d7bfb1d
+      internalID: -164266140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 322
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db528f86f3c4145819518cf49453c4
+      internalID: -636352743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 164
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f5e37dbd282044f9574577b3706b1b
+      internalID: 1832006147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 258
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3729c67b466c014186263abf037e7f9
+      internalID: 1131681255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 258
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ea3f128418b7498f8c0e9953f9ff2
+      internalID: 870026239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 265
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930dd2ce592df5948bbdeae44fa4e0e0
+      internalID: 19702044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b9f2505e475574ca546a8a86564d29
+      internalID: -1510653691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 194
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5dcbd39ab4dc3408fce2ea5aff8e99
+      internalID: -2033409271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 194
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e10861cfeb8eda4bbc42cf49ca487c1
+      internalID: 1431435785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 214
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d94a41639ed74c9ee889e2917e0b5
+      internalID: 1936736004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b53bbd1a5d7d242b864e277d292f67
+      internalID: 1869539726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 202
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05b52c9b318c140aa5298a75fd7c3f
+      internalID: 1907881477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 130
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a9a2e1c89c155489ef639ee02dbc7d
+      internalID: 312512146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 130
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c49789327fd84387461b22701e958
+      internalID: -1200404822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 69
+        width: 168
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a714d290894934f40b1795f8eebf3ecf
+      internalID: 1292901380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad5c49e4ea5014dbae9bc18019075e
+      internalID: 1128338335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c48df497a0984380bdc574734e2fe
+      internalID: -1153491749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 109
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0cbc79a4815944abdb6c76d1ee798
+      internalID: -1962127104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 66
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db7f788bdd8f24a971d15400c00b24
+      internalID: -1236606683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b19f9da2f6af3242b36ced733b819f8
+      internalID: -1436736541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 98
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b475a0c5938e3e4da6530d6a50b0efd
+      internalID: 1224671174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e1093bfc518524eb545941edd3b883
+      internalID: 1220462515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 90
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57bd9e26d044a34ab0b28a52f4d73e6
+      internalID: -2146513459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 44
+        width: 128
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe3f1924c47484eac9dace4d474699
+      internalID: -761951201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7fd957a94a154bb570dbea22de659
+      internalID: -656939217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001820f1144af2d49b04d85b9beee906
+      internalID: 13497949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 15
+        width: 138
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d2914b2b1e944780aa09d6f8c32d3
+      internalID: 2076549266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project_Awe_UI_Version1_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e69a666a2ac94bbcb5c66e654d6dd
+      internalID: -1253844730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Project_Awe_UI_Version1_0: -164266140
+      Project_Awe_UI_Version1_1: -636352743
+      Project_Awe_UI_Version1_10: 1869539726
+      Project_Awe_UI_Version1_11: 1907881477
+      Project_Awe_UI_Version1_12: 312512146
+      Project_Awe_UI_Version1_13: -1200404822
+      Project_Awe_UI_Version1_14: 1292901380
+      Project_Awe_UI_Version1_15: 1128338335
+      Project_Awe_UI_Version1_16: -1153491749
+      Project_Awe_UI_Version1_17: -1962127104
+      Project_Awe_UI_Version1_18: -1236606683
+      Project_Awe_UI_Version1_19: -1436736541
+      Project_Awe_UI_Version1_2: 1832006147
+      Project_Awe_UI_Version1_20: 1224671174
+      Project_Awe_UI_Version1_21: 1220462515
+      Project_Awe_UI_Version1_22: -2146513459
+      Project_Awe_UI_Version1_23: -761951201
+      Project_Awe_UI_Version1_24: -656939217
+      Project_Awe_UI_Version1_25: 13497949
+      Project_Awe_UI_Version1_26: 2076549266
+      Project_Awe_UI_Version1_27: -1253844730
+      Project_Awe_UI_Version1_3: 1131681255
+      Project_Awe_UI_Version1_4: 870026239
+      Project_Awe_UI_Version1_5: 19702044
+      Project_Awe_UI_Version1_6: -1510653691
+      Project_Awe_UI_Version1_7: -2033409271
+      Project_Awe_UI_Version1_8: 1431435785
+      Project_Awe_UI_Version1_9: 1936736004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
